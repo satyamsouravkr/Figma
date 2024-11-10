@@ -68,6 +68,8 @@ body{
 .search{
     background-image: url(image/search.png);
     padding: 100px 200px;
+    background-size: cover;
+    background-position: center;
 }
 .new{
     background-color: aliceblue;
